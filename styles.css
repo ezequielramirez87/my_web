@@ -27,4 +27,6 @@ body {
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
+    width: 800px;
+    height: 100px;
 }
