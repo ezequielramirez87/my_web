@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: black;
+}
+
+.clock {
+    font-size: 15em;
+    text-align: center;
+    color: aqua;
+}
+
+.message1 {
+    color: blueviolet;
+    font-size: 5em;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.message2 {
+    color: chartreuse;
+    font-size: 3em;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+}
